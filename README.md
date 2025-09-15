@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Abba856
-- 👀 I’m interested in 📱💻📖📶⚽
-- 🌱 I’m currently learning computer 
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me eesabba856@gmail.com 
+Hi there 👋, I'm Isah Abdullahi
 
-<!---
-Abba856/Abba856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Software Engineering Student | Full-Stack Developer | Open to Collaboration
+
+I’m passionate about building impactful web and mobile systems, contributing to open-source, and working with others on innovative projects.
+
+🤝 I’m open to collaborations on academic projects, open-source, and community-driven solutions.

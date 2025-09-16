@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 What I Do  
-- Build web & mobile apps with **PHP, SQL, JavaScript, React, Python**  
+- Build web & mobile apps with **PHP, SQL, JavaScript, React, Java, Python**  
 - Work with **SQL & NoSQL databases**  
 - Deploy on **Azure & Netlify**  
 

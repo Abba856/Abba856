@@ -1,7 +1,23 @@
-Hi there 👋, I'm Isah Abdullahi
+# Hi there 👋, I'm Isah Abdullahi  
 
-🚀 Software Engineering Student | Full-Stack Developer | Open to Collaboration
+💻 **Software Engineering Student | Full-Stack Developer**  
+✨ Passionate about solving real-world problems with code  
 
-I’m passionate about building impactful web and mobile systems, contributing to open-source, and working with others on innovative projects.
+---
 
-🤝 I’m open to collaborations on academic projects, open-source, and community-driven solutions.
+### 🚀 What I Do  
+- Build web & mobile apps with **PHP, SQL, JavaScript, React, Python**  
+- Work with **SQL & NoSQL databases**  
+- Deploy on **Azure & Netlify**  
+
+---
+
+### 📌 Current Projects  
+- 📝 **Project Topic Checker**  
+- 🐄 **Livestock Tracking System**  
+- 👔 **Employee Recruitment System**  
+
+---
+
+🤝 I’m looking to collaborate on **open-source, academic, and community-driven projects**.  
+Let’s connect and build something impactful together!
